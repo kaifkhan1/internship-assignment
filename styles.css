@@ -227,6 +227,10 @@ img{
     font-size: .8rem;
 }
 
+.nav-link .dropdown-menu ul li a:hover{
+    color : #D0FE1D;
+    
+}
 
 
 
